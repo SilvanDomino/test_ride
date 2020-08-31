@@ -43,50 +43,6 @@ app.*.map.json
 # Exceptions to above rules.
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
 
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@SilvanDomino
-flutter /
-flutter
-
-3k
-99.5k
-
-    13.8k
-
-Code
-Issues 5k+
-Pull requests 180
-Actions
-Projects 129
-Wiki
-Security
-
-    Insights
-
-flutter/.gitignore
-@mdebbar
-mdebbar Hide benchmark a/b results from git (#63518)
-Latest commit cbb821a 19 days ago
-History
-21 contributors
-@gspencergoog
-@jonahwilliams
-@xster
-@christopherfujino
-@mravn-google
-@jmagman
-@goderbauer
-@yjbanov
-@shihaohong
-@pq
-@mdebbar
-@jxltom
-118 lines (107 sloc) 2.22 KB
 # Miscellaneous
 *.class
 *.lock
@@ -205,18 +161,3 @@ app.*.symbols
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
 !/dev/ci/**/Gemfile.lock
-
-    © 2020 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Help
-
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
